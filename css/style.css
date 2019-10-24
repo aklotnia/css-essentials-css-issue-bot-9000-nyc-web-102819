@@ -17,7 +17,7 @@ h2 {
   font-family: 12px;
 }
 
-#tasks > .completed {
+#tasks.completed {
   font-size: 12px;
   background: #ccc;
   text-decoration: underline;
